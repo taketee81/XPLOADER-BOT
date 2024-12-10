@@ -16,12 +16,12 @@
     "OWNER_NUMBER": {
       "description": "Enter your number here",
       "required": true,
-      "value": "254796180105"
+      "value": "23276619734"
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
       "required": true,
-      "value": "Tylor"
+      "value": "Take Tee"
      },
     "AUTO_STATUS_SEEN": {
       "description": "Set true to enable and false to disable auto status view",
@@ -51,7 +51,7 @@
     "SESSION_ID": {
       "description": "Enter Xploader session id here; must start with XPLOADER~",
       "required": true,
-      "value": ""
+      "value": "XPLOADER~23YA2KLa#gIL53W2dUeIPmbj0tVObdlezO4oPsh7ScQNatezMxiU"
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
