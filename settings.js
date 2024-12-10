@@ -13,7 +13,7 @@ const fs = require('fs')
 const { color } = require('./lib/color')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER~23YA2KLa#gIL53W2dUeIPmbj0tVObdlezO4oPsh7ScQNatezMxiU' 
 //Enter your Xploader session id here; must start with XPLOADER~
 
 //=================================================//
@@ -21,11 +21,11 @@ global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁�
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105' 
+global.ownernumber = process.env.OWNER_NUMBER || '23276619734' 
 //Type your number here
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Take Tee'
 //Type your name here
 
 //=================================================//
