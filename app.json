@@ -16,7 +16,7 @@
     "OWNER_NUMBER": {
       "description": "Enter your number here",
       "required": true,
-      "value": "23276619734"
+      "value": "23274448130"
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
@@ -51,7 +51,7 @@
     "SESSION_ID": {
       "description": "Enter Xploader session id here; must start with XPLOADER~",
       "required": true,
-      "value": "XPLOADER~23YA2KLa#gIL53W2dUeIPmbj0tVObdlezO4oPsh7ScQNatezMxiU"
+      "value": "XPLOADER~23YA2KLa#XPLOADER~KnwXWQzS#wFeCiv1VBK1IiKTx_X-bNLKDbqBorP6gCfkpEU0kxH8"
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
@@ -71,7 +71,7 @@
      "PREMIUM_VIP": {
       "description": "Enter numbers to be premium users [ Each Saperated By Comma ]",
       "required": false,
-      "value": "254754783972,254796180105"
+      "value": "23274448130,23276619734"
      },
      "AUTO_BLOCK": {
       "description": "Enter a country code to be auto blocked",
