@@ -64,7 +64,7 @@
 3. SESSION ID (SERVER 2)
     <br>
     <p align="center">
-<a href='https://xploader-pair-code.onrender.com' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
+<a href='https://xpbots-da15d78002ee.herokuapp.com/' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
 
 
 4. SESSION FILE (SERVER 3)
