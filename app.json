@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Xploader session id here; must start with XPLOADER~",
-      "value": "",
+      "value": "XPLOADER~CzYVBQRD#78W8cdF3dLOt2hikgWOhTJkME9LkWiL6Rm7-GGY0ma0",
       "required": false
     },
     "BOT_NAME": {
@@ -22,18 +22,18 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "254754783972",
+      "value": "23274448130",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "Tylor",
+      "value": "Mr Take Tee",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
       "value": "Xploader",
-      "required": false
+      "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
@@ -57,13 +57,13 @@
     },
     "AUTO_STATUS_VIEW": {
       "description": "Set true to enable and false to disable auto status view",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "AUTO_STATUS_REACT": {
       "description": "Set true to enable and false to disable auto status reaction",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "ANTI_CALL": {
       "description": "Set true to enable and false to disable anti-call feature",
@@ -72,22 +72,22 @@
     },
     "WELCOME_MSG": {
       "description": "Set true to enable and false to disable welcome messages",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "STATUS_EMOJI": {
       "description": "Status reaction emoji",
-      "value": "🧡",
-      "required": false
+      "value": "💚",
+      "required": true
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Nairobi",
-      "required": false
+      "value": "Africa/Sierra Leone",
+      "required": true
     },
     "COUNTRY_CODE": {
       "description": "Set your country code for functionality of blockforeign and antiforeign commands",
-      "value": "254",
+      "value": "232",
       "required": false
     },
     "AUTO_BLOCK_FOREIGN": {
