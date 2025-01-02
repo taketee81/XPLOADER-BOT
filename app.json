@@ -87,7 +87,7 @@
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Sierrra Leone🇸🇱"
       "required": false
     },
     "COUNTRY_CODE": {
